@@ -192,7 +192,7 @@
       "symbol": "BURR",
       "name": "BURR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/burr-assets/main/blockchains/bartio/assets/0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/burr.png",
       "tags": ["mock"]
     },
     {
