@@ -62,6 +62,14 @@
     },
     {
       "chainId": 80084,
+      "address": "0x46eFC86F0D7455F135CC9df501673739d513E982",
+      "symbol": "iBGT",
+      "name": "Infrared BGT",
+      "decimals": 18,
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
       "symbol": "YEET",
       "name": "YEET",
