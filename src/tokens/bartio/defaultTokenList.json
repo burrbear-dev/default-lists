@@ -232,6 +232,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0xE5FAa69DEF26b3875381FCD653205C3DBf5e9234",
+      "symbol": "CANAHONEY",
+      "name": "Cana Honey",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/canahoney.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0xf5AFCF50006944d17226978e594D4D25f4f92B40",
       "symbol": "NECT",
       "name": "NECTAR",
