@@ -252,7 +252,7 @@
       "chainId": 80084,
       "address": "0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7",
       "symbol": "BURR",
-      "name": "BURR",
+      "name": "BurrBear Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/burr.png",
       "tags": ["mock"]
