@@ -337,6 +337,78 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/burr-assets/main/blockchains/bartio/assets/0x3dB20AEfcd234465C981B87Da025711c91aDD2C3/logo.png",
       "tags": ["mock"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xf74a682b45F488DF08a77Dc6aF07364e94e4ED98",
+      "name": "HONEY-STGUSDC-NECT",
+      "symbol": "HONEY-STGUSDC-NECT",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa220701d58d07Dbc635B3344089aA46430A15570",
+      "name": "33BURR-33WBERA-33NECT",
+      "symbol": "33BURR-33WBERA-33NECT",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x15204b95373bBBD3823a94D7e001C340B80C539b",
+      "name": "14BURR-14shSOL-14shETH-14hTIA-14shTIA-14hSOL-14hETH",
+      "symbol": "14BURR-14shSOL-14shETH-14hTIA-14shTIA-14hSOL-14hETH",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x7a4ffb600C1566Ec7A864DB7ba6c40F166EF930E",
+      "name": "LP-shETH-hETH",
+      "symbol": "LP-shETH-hETH",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x39FCa0A506d01ff9cb727FE8EDf088e10F6b431A",
+      "name": "LP-HONEY-NECT",
+      "symbol": "LP-HONEY-NECT",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x6e554D0B68A7f0B9232f35FEd6b59dA3624c77d0",
+      "name": "LP-shSOL-hSOL",
+      "symbol": "LP-shSOL-hSOL",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x5Dd67A2c9FBa891c6780da434F4B9217C6Cd41b6",
+      "name": "LP-shTIA-hTIA",
+      "symbol": "LP-shTIA-hTIA",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x4ADf1a7e38188D74AB191f8d2DF65e2f8362FDE4",
+      "name": "LBGT-iBGT",
+      "symbol": "LBGT-iBGT",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
     }
   ],
   "version": {
