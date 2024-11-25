@@ -44,6 +44,42 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
+      "symbol": "BULLA",
+      "name": "Bulla token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bulla.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x40bc12c8B0dc1ADa90156614d6a7F7e95e6AFAE3",
+      "symbol": "stBUDS",
+      "name": "Liquid Staked Buds",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stBuds.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
+      "symbol": "BUDS",
+      "name": "Buds",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Buds.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
+      "symbol": "weHONEY",
+      "name": "webera-vault-honey",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/weHONEY.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0xebbDbc1d24551A7DA97Eb0Bc0f9328B6071EC14c",
       "symbol": "GME_2508",
       "name": "Gamestop Corporation",
@@ -101,7 +137,7 @@
       "symbol": "YEET",
       "name": "YEET",
       "decimals": 18,
-      "logoURI": "https://https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/yeet-token-icon.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/yeet-token-icon.png",
       "tags": ["featured"]
     },
     {
@@ -409,6 +445,87 @@
       "decimals": 18,
       "logoURI": "",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xcaf7072631EA338eC37d8f68a5fDB9A8a96d572A",
+      "symbol": "HOLD",
+      "name": "Holdstation",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hold.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xb82aa9bba5b9A02B53BE9F9a048c7391eC7da600",
+      "symbol": "hsHONEY",
+      "name": "hsHONEY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEY.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c1e26c5f666eb99cce6795fd0892e50929e242d",
+      "symbol": "NOME",
+      "name": "NOME",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c9ab67191faae287ca5e33af72bc2868a0f0498",
+      "symbol": "USDbr",
+      "name": "USDbr",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/USDbr.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "name": "Sumerian USD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suUSD.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "name": "Sumerian ETH",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suETH.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "symbol": "suBTC",
+      "name": "Sumerian BTC",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suBTC.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x553d713e0fB958932b6C40ABAf0b5A1fFae73Da2",
+      "symbol": "SUMER",
+      "name": "Sumerian Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sumer.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x5d6Bcd571A67357fBC787637F73d5bBCBe8E2148",
+      "symbol": "BRA",
+      "name": "WeBera Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BRA.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
