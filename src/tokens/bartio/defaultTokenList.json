@@ -448,6 +448,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0x318BbCfd523755c338D8cC89E4622836769F2F3C",
+      "symbol": "nETH",
+      "name": "Native ETH",
+      "decimals": 18,
+      "logoURI": "https://testnet.app.raga.finance/_next/image?url=/_next/static/media/nETH.bbda641e.png&w=48&q=75",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0xcaf7072631EA338eC37d8f68a5fDB9A8a96d572A",
       "symbol": "HOLD",
       "name": "Holdstation",
