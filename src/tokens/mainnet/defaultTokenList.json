@@ -1,0 +1,87 @@
+{
+  "name": "Berachain Mainnet Default Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": ["mainnet"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "collateral": {
+      "name": "Collateral",
+      "description": "Tokens that are used to mint Honey"
+    },
+    "defaultCollateral": {
+      "name": "Default Collateral",
+      "description": "default token used in Honey"
+    },
+    "featured": {
+      "name": "Featured",
+      "description": "Tokens that are featured"
+    },
+    "debt": {
+      "name": "Debt Token",
+      "description": "Tokens that are representing debt"
+    },
+    "supply": {
+      "name": "Supply Token",
+      "description": "Tokens that are representing honey supply"
+    },
+    "deposit": {
+      "name": "Deposit Token",
+      "description": "Tokens that can be deposited in Bend"
+    },
+    "rewardToken": {
+      "name": "Reward Token",
+      "description": "Tokens that are used for vault deposits to earn BGT rewards"
+    },
+    "mock": {
+      "name": "Mock Token",
+      "description": "Tokens that are used for testing"
+    }
+  },
+
+  "tokens": [
+    {
+      "chainId": 80094,
+      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x68a9C501Bf6ee7bE631a1606E7065d4F83d2cD17",
+      "symbol": "BURR",
+      "name": "BurrBear Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/burr.png",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+      "symbol": "NECT",
+      "name": "NECTAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/burr-assets/main/blockchains/bartio/assets/0xf5AFCF50006944d17226978e594D4D25f4f92B40/logo.png",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+      "symbol": "USDC.e",
+      "name": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
