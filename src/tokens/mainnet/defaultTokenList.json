@@ -48,7 +48,7 @@
       "symbol": "wgBERA",
       "name": "Wrapped gBERA",
       "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/wgbera.png",
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/wgbera.png",
       "tags": ["debt"]
     },
     {
