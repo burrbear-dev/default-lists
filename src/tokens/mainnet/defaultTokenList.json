@@ -104,6 +104,15 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21",
+      "symbol": "PLUG",
+      "name": "Beraplug",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21.png?size=lg",
+      "tags": []
     }
   ],
   "version": {
