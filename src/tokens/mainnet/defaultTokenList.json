@@ -113,6 +113,15 @@
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21.png?size=lg",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xBaadCC2962417C01Af99fb2B7C75706B9bd6Babe",
+      "symbol": "LBGT",
+      "name": "Liquid BGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/lbgt.png",
+      "tags": []
     }
   ],
   "version": {
