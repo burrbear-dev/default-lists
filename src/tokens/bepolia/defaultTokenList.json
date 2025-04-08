@@ -73,7 +73,7 @@
       "address": "0x1F6A0b5659B11144d0e9F0A99184981815AFdD23",
       "symbol": "USDC.e",
       "name": "USD Coin",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdc.png",
       "tags": ["featured"]
     },
@@ -82,7 +82,7 @@
       "address": "0xF33aFBCeC8a104F3D1B7674cC16ebA96FeB9F905",
       "symbol": "USDT",
       "name": "Tether USD Coin",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdt.png",
       "tags": ["featured"]
     }
