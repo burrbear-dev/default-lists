@@ -202,7 +202,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/invda.png",
       "tags": ["rwa"]
-    },
+    }
   ],
   "version": {
     "major": 1,
