@@ -1,7 +1,9 @@
 {
   "name": "Berachain Mainnet Default Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": ["mainnet"],
+  "keywords": [
+    "mainnet"
+  ],
   "tags": {
     "stablecoin": {
       "name": "Stablecoin",
@@ -48,7 +50,9 @@
       "name": "Wrapped gBERA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/wgbera.png",
-      "tags": ["debt"]
+      "tags": [
+        "debt"
+      ]
     },
     {
       "chainId": 80094,
@@ -57,7 +61,9 @@
       "name": "Wrapped Berachain Token",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/wbera.png",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "chainId": 80094,
@@ -66,7 +72,10 @@
       "name": "WETH",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
-      "tags": ["featured", "deposit"]
+      "tags": [
+        "featured",
+        "deposit"
+      ]
     },
     {
       "chainId": 80094,
@@ -75,7 +84,10 @@
       "name": "Honey",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
-      "tags": ["stablecoin", "featured"]
+      "tags": [
+        "stablecoin",
+        "featured"
+      ]
     },
     {
       "chainId": 80094,
@@ -84,7 +96,9 @@
       "name": "BurrBear Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/burr.png",
-      "tags": ["stablecoin"]
+      "tags": [
+        "stablecoin"
+      ]
     },
     {
       "chainId": 80094,
@@ -93,7 +107,9 @@
       "name": "NECTAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/burr-assets/main/blockchains/bartio/assets/0xf5AFCF50006944d17226978e594D4D25f4f92B40/logo.png",
-      "tags": ["stablecoin"]
+      "tags": [
+        "stablecoin"
+      ]
     },
     {
       "chainId": 80094,
@@ -102,7 +118,12 @@
       "name": "USDC.e",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+      "tags": [
+        "stablecoin",
+        "collateral",
+        "featured",
+        "defaultCollateral"
+      ]
     },
     {
       "chainId": 80094,
@@ -129,7 +150,9 @@
       "name": "Bera Governance Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/bgt.png",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "chainId": 80094,
@@ -174,7 +197,9 @@
       "name": "twin Coinbase Long",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/coin.png",
-      "tags": ["rwa"]
+      "tags": [
+        "rwa"
+      ]
     },
     {
       "chainId": 80094,
@@ -183,7 +208,9 @@
       "name": "twin Coinbase Short",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/icoin.png",
-      "tags": ["rwa"]
+      "tags": [
+        "rwa"
+      ]
     },
     {
       "chainId": 80094,
@@ -192,7 +219,9 @@
       "name": "twin Nvidia Long",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/nvda.png",
-      "tags": ["rwa"]
+      "tags": [
+        "rwa"
+      ]
     },
     {
       "chainId": 80094,
@@ -201,7 +230,42 @@
       "name": "twin Nvidia Short",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/invda.png",
-      "tags": ["rwa"]
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/wbtc.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "symbol": "SolvBTC",
+      "name": "Solv BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/solvbtc.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "symbol": "xSolvBTC",
+      "name": "xSolvBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/xsolvbtc.png",
+      "tags": [
+        "rwa"
+      ]
     }
   ],
   "version": {
