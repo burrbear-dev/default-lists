@@ -247,6 +247,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaNect.png",
       "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "symbol": "USD₮0",
+      "name": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdt0.png",
+      "tags": ["rwa"]
     }
   ],
   "version": {
