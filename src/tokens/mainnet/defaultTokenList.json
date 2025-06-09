@@ -160,6 +160,15 @@
     },
     {
       "chainId": 80094,
+      "address": "0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f",
+      "symbol": "ELITE",
+      "name": "Eliteness.Network",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/eliteness.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
       "address": "0xD10E65A5F8cA6f835F2B1832e37cF150fb955f23",
       "symbol": "NECT/USDC/HONEY",
       "name": "NECT/USDC/HONEY",
@@ -210,7 +219,7 @@
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/wbtc.png",
-      "tags": ["rwa"]
+      "tags": ["featured"]
     },
     {
       "chainId": 80094,
@@ -229,6 +238,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/xsolvbtc.png",
       "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x439c84851bb1EDd8Db3DD94809ebBEA6670682F3",
+      "symbol": "canaNECT",
+      "name": "Beracana NECT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaNect.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "symbol": "USD₮0",
+      "name": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdt0.png",
+      "tags": ["stablecoin"]
     }
   ],
   "version": {
