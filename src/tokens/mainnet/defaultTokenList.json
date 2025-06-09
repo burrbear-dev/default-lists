@@ -238,6 +238,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/xsolvbtc.png",
       "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x439c84851bb1EDd8Db3DD94809ebBEA6670682F3",
+      "symbol": "canaNECT",
+      "name": "Beracana NECT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaNect.png",
+      "tags": ["rwa"]
     }
   ],
   "version": {
