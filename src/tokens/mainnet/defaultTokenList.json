@@ -219,7 +219,7 @@
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/wbtc.png",
-      "tags": ["rwa"]
+      "tags": ["featured"]
     },
     {
       "chainId": 80094,
@@ -246,7 +246,7 @@
       "name": "Beracana NECT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaNect.png",
-      "tags": ["rwa"]
+      "tags": []
     },
     {
       "chainId": 80094,
@@ -255,7 +255,7 @@
       "name": "USD₮0",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdt0.png",
-      "tags": ["rwa"]
+      "tags": ["stablecoin"]
     }
   ],
   "version": {
