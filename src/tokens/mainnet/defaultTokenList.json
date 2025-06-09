@@ -160,6 +160,15 @@
     },
     {
       "chainId": 80094,
+      "address": "0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f",
+      "symbol": "ELITE",
+      "name": "Eliteness.Network",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/eliteness.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
       "address": "0xD10E65A5F8cA6f835F2B1832e37cF150fb955f23",
       "symbol": "NECT/USDC/HONEY",
       "name": "NECT/USDC/HONEY",
