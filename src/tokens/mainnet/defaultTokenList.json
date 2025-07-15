@@ -256,6 +256,15 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/usdt0.png",
       "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x768670beAD85b4383940F60AfD8492AC76b2Ba28",
+      "symbol": "canaBERA",
+      "name": "Beracana BERA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaBERA.png",
+      "tags": []
     }
   ],
   "version": {
