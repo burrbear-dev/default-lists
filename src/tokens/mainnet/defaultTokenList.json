@@ -265,6 +265,375 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CanaBERA.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbdaB22CD9a4BcaB42Fe5Cf17e523A029cbe903Dc",
+      "symbol": "BAs",
+      "name": "Boeing Company Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/BAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x69B88c116cb7cBBC5B0f85CBeA1Be91DF40b56E1",
+      "symbol": "LMTs",
+      "name": "Lockheed Martin Corporation Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/LMTs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x24BC5c9a529024e2B670B5b8166993d4ECaefE22",
+      "symbol": "COINs",
+      "name": "Coinbase Global Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/COINs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x4E0c8b91183374D3aB5eE691b0F59F1a4A671D80",
+      "symbol": "WBDs",
+      "name": "Warner Bros. Discovery Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/WBDs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xd9c5b692ed20fA4207f2da1a3db3450828d90a46",
+      "symbol": "YMAXs",
+      "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/YMAXs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x25f838Dc9DFC8F4Ac5bF957c475F90860Dde3460",
+      "symbol": "ARKKs",
+      "name": "ARK Innovation ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/ARKKs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x17A238d9a31fFF2f1078C8e1E4b2aC6B84E3A068",
+      "symbol": "PARAs",
+      "name": "Paramount Global Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/PARAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6379BB654aA1B63bC602DBC947f60305AB9d6467",
+      "symbol": "FIATs",
+      "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/FIATs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x39890d84ac4a0E94d486068486f6513470E541b4",
+      "symbol": "XDTEs",
+      "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/XDTEs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x77D5cbfE85b3DfB6dB3e63d9392829f4C34FFA86",
+      "symbol": "AAPLs",
+      "name": "Apple Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/AAPLs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xca72Cf92768bc1ABEF4b14cFD3E096c8B5f54696",
+      "symbol": "TSLAs",
+      "name": "Tesla Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/TSLAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x30F8a2fE5Ea2eb2E64b26CcbD33b690Ec4EFe723",
+      "symbol": "AMZNs",
+      "name": "Amazon.com Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/AMZNs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xa8e8EFB06Ff91e8c5BEeD849417945d39F3f22Eb",
+      "symbol": "SPYs",
+      "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/SPYs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x70fA06e485285B6873B0A93189B613E2d85dc5e2",
+      "symbol": "GMEs",
+      "name": "GameStop Corp Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/GMEs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x59dEA303501B18c058882096b781B89B836aA12C",
+      "symbol": "SUPVs",
+      "name": "Grupo Supervielle SA Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/SUPVs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbc2CeE93341C0e10d2fd5ED502F17AF88CFa1E7B",
+      "symbol": "YPFs",
+      "name": "YPF S.A. Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/YPFs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xf79d63c21d7C69f1097114716dDB76844169B363",
+      "symbol": "CONYs",
+      "name": "YieldMax COIN Option Income Strategy ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CONYs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xac894A14e3D2CE9E89AefD209b0a38c12AdcF624",
+      "symbol": "MELIs",
+      "name": "MercadoLibre Inc. Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/MELIs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x9933Bb212C36860EF22915D44b74a8Cf1ffd45BB",
+      "symbol": "NVDAs",
+      "name": "Nvidia Corporation Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/NVDAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xB35ffDB091e2e4361d907d5AA7dB3C150846a3e1",
+      "symbol": "METAs",
+      "name": "Meta Platforms Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/METAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x849F0393632746AC5e8426b53d78266d1d8ac1cd",
+      "symbol": "CRCLs",
+      "name": "Circle Internet Group Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/CRCLs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x8f7F14481a9c0943836898F825BFb5494b7828Db",
+      "symbol": "DLOs",
+      "name": "DLocal Ltd Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/DLOs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x08bc8b0c234390a40Aa305277355fd1A1819f10E",
+      "symbol": "UPSTs",
+      "name": "Upstart Holdings Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/UPSTs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x7542d8347913fA8eE3090fFf38544CDF694dd5F9",
+      "symbol": "SPYIs",
+      "name": "NEOS S&P 500 High Income ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/SPYIs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x3a33A4Fa4443A5fd4aa89349BB3D2bc1D644478b",
+      "symbol": "AMCs",
+      "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/AMCs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x12855A68877A95482CEA16a39AaA25009ac6E396",
+      "symbol": "QQQs",
+      "name": "Invesco QQQ Trust Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/QQQs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xB7ca08EEF00a58489A670a1E22D4c6D01579db2F",
+      "symbol": "MSTRs",
+      "name": "MicroStrategy Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/MSTRs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xe9C99da8395C57Bd08830c547a9c5d57A23C5cB3",
+      "symbol": "DNAs",
+      "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/DNAs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x8dcCB687201955299E7bb1da47664313ff6759dd",
+      "symbol": "DISs",
+      "name": "The Walt Disney Company Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/DISs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x7195A0Bc1e8A8b29Cd426D545522d38e698120Bf",
+      "symbol": "AAAUs",
+      "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/AAAUs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xD2A26cF1d3aB11799AFd3E2461eC7ea0D62eEC6C",
+      "symbol": "ABNBs",
+      "name": "Airbnb Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/ABNBs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x42BECBE61383ce454db886e2A2802eC88ddC6beb",
+      "symbol": "PLTRs",
+      "name": "Palantir Technologies Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/PLTRs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x4D9CeB1a0baA95b1Ae6198c152F44AB4e919824D",
+      "symbol": "DTs",
+      "name": "Dynatrace Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/DTs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x43456286034E248EFC1471687fA7e7fF6aC4Bd5a",
+      "symbol": "MCDs",
+      "name": "McDonald's Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/MCDs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xB1fef1bcf006604c382200168932f00812Ac9FF0",
+      "symbol": "GSs",
+      "name": "The Goldman Sachs Group Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/GSs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6C353a03d1177b5bA0C4Da63dA77341433015F86",
+      "symbol": "UBERs",
+      "name": "Uber Technologies Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/UBERs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x682BedD46D9d308eF35eaa7F92430e8A57c73792",
+      "symbol": "BLKs",
+      "name": "BlackRock Inc Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/BLKs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0xB064c58a63EBf8D03CD7A063e9e5e1398CdeA138",
+      "symbol": "BYDs",
+      "name": "BYD Company Limited Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/BYDs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x56b4930057bcF3Dc9b8f6F17FF64dD54698598e8",
+      "symbol": "MSFTs",
+      "name": "Microsoft Corporation Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/MSFTs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x23a9dfBc5f489311E891118a587C5367cc992a40",
+      "symbol": "UNGs",
+      "name": "United States Natural Gas Fund LP Tokenized by Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/UNGs.svg",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x3e5D85dD846B4Ca5A12Eb19eBd21d2798b724c36",
+      "symbol": "SAIL",
+      "name": "Sailing",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/default-lists/main/src/assets/SAIL.svg",
+      "tags": ["rwa"]
     }
   ],
   "version": {
